@@ -32,7 +32,7 @@ This directory contains book cover images for the OpenScholar website.
 6. **best-practices-mediterranean-2019.jpg**
    - Title: Best Practices in Evaluation and Restoration of Degraded Mediterranean Environments
    - Year: 2019
-   - Editors: Merino, A., Doni, S., Evelpidou, N., et al.
+   - Editors: Merino, A., Doni, S., Evelpidou, N., Ferreira, T., García-Arias, A. I., Masciandaro, G., Rodríguez-González, P. M.
 
 7. **sea-level-changes-2019.jpg**
    - Title: Sea Level Changes
@@ -42,12 +42,12 @@ This directory contains book cover images for the OpenScholar website.
 8. **geophysical-phenomena-alexandrian-2019.jpg**
    - Title: Geophysical Phenomena and Alexandrian Littoral
    - Year: 2019
-   - Authors: Evelpidou N., Repapis Ch., Zerefos Ch., et al.
+   - Authors: Evelpidou N., Repapis Ch., Zerefos Ch., Tzalas H., Synolakis K.
 
 9. **geomorphology-laboratory-exercises-2018.jpg**
-    - Title: Geomorphology-Laboratory Exercises
-    - Year: 2018
-    - Author: Evelpidou N.
+   - Title: Geomorphology-Laboratory Exercises
+   - Year: 2018
+   - Author: Evelpidou N.
 
 10. **geographic-information-systems-2015.jpg**
     - Title: Geographic Information Systems
@@ -79,10 +79,11 @@ This directory contains book cover images for the OpenScholar website.
     - Year: 2002
     - Authors: Vaiopoulos, D., Vassilopoulos, A., Evelpidou, N.
 
-## Special Issues & Bulletins (Generic placeholder)
+## Placeholder Images
 
-16. **placeholder.jpg**
-    - For all special issues, bulletins, handbooks, field guides, and other publications without specific cover images
+**placeholder.jpg**
+- Used for books, handbooks, field guides, bulletins, and special issues without specific cover images
+- Appears throughout the collection for various publications from 2002-2023
 
 ---
 
