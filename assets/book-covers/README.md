@@ -1,402 +1,155 @@
-# Book Cover Images Directory
+# Book Cover Images
 
-This directory contains cover images for all books listed in the **Authored Books** section of the research publications page. Book covers are displayed on the website to provide visual identification of published works.
+This folder stores the cover images used in Research/Books.html. Keep it lightweight and consistent so pages load fast and look tidy.
 
-## Book Cover Images
+## What goes here
+- One JPG per publication cover that appears in the Books section.
+- Optional: temporary `placeholder.jpg` for items without a real cover yet.
 
-Below is a complete inventory of all 48 books from the Authored Books section, sorted by year (2023-2002), showing which books have actual cover images and which are using placeholder images.
+## File naming convention
+- Lowercase, words separated with hyphens
+- Include the publication year at the end
+- Extension: `.jpg`
 
-### 2023 (6 books)
+Examples:
+- `geographic-information-systems-2022.jpg`
+- `geomorphology-2020.jpg`
+- `sea-level-changes-2019.jpg`
 
-**1. geographic-information-systems-arcgis-pro-2023.jpg**  
-✓ Has cover  
-*Geographic Information Systems from theory to practice: using ArcGIS Pro*  
-Year: 2023  
-Authors: Evelpidou, N., Tzouxanioti, M., Karkani, A.
+## Image specifications (recommended)
+- Format: JPEG (sRGB)
+- Aspect ratio: ~2:3 portrait (or the closest available)
+- Suggested size: 800–1200 px height (optimize for clarity, not overkill)
+- Target file size: ≤ 300 KB (use compression)
 
-**2. applied-urban-geomorphology-2023.jpg**  
-✓ Has cover  
-*Applied and Urban Geomorphology*  
-Year: 2023  
-Authors: Karkani, A., Evelpidou, N.
+Tips: Use an optimizer (e.g., ImageOptim, Squoosh) and avoid upscaling tiny images.
 
-**3. quaternary-geology-archeogeomorphology-2023.jpg**  
-✓ Has cover  
-*Quaternary Geology and Archeogeomorphology*  
-Year: 2023  
-Authors: Evelpidou, N., Karkani, A.
+## Alt text standard
+Describe the cover succinctly: `alt="Book cover for <Title>"`.
 
-**4. intro-gis-handbook-arcgis-pro-2023.jpg**  
-📝 Cover needed  
-*INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS-Handbook ArcGIS Pro*  
-Year: 2023  
-Authors: Evelpidou, N., Saitis, G.
-
-**5. gis-environmental-applications-2023.jpg**  
-📝 Cover needed  
-*GEOGRAPHIC INFORMATION SYSTEMS IN ENVIRONMENTAL APPLICATIONS Laboratory notes*  
-Year: 2023  
-Authors: Evelpidou, N., Saitis, G.
-
-**6. gis-lab-notes-arcgis-pro-2023.jpg**  
-📝 Cover needed  
-*Geographic Information Systems – Laboratory notes for ArcGIS Pro*  
-Year: 2023  
-Authors: Evelpidou, N., Saitis, G.
-
----
-
-### 2022 (3 books)
-
-**7. geographic-information-systems-2022.jpg**  
-✓ Has cover  
-*Geographic Information Systems*  
-Year: 2022  
-Authors: Evelpidou N., Tzouxanioti M., Karkani A.
-
-**8. resilience-strategies-heritage-landscapes-2022.jpg**  
-📝 Cover needed  
-*Course Module Resilience Strategies for Natural and Historic Heritage Landscapes – Study Guide*  
-Year: 2022  
-Authors: Evelpidou N., Gerasopoulos E., Votsi N.E., Lemonia R.
-
-**9. telematics-metrics-2022.jpg**  
-📝 Cover needed  
-*Course Module Telematics and metrics – Study Guide*  
-Year: 2022  
-Authors: Gerasopoulos Ε., Votsi Ν.Ε., Evelpidou Ν., Ragia L.
-
----
-
-### 2021 (3 books)
-
-**10. integrated-coastal-zone-management-2021.jpg**  
-📝 Cover needed  
-*Integrated coastal zone management. Student guide*  
-Year: 2021  
-Authors: Evelpidou, N.
-
-**11. flash-floods-2021.jpg**  
-📝 Cover needed  
-*Flash floods. Student guide*  
-Year: 2021  
-Authors: Evelpidou, N.
-
-**12. arcpro-lab-instruction-2021.jpg**  
-📝 Cover needed  
-*ArcPro, Laboratory instruction guide*  
-Year: 2021  
-Authors: Evelpidou N. Tzouxanioti M.
-
----
-
-### 2020 (1 book)
-
-**13. geomorphology-2020.jpg**  
-✓ Has cover  
-*Geomorphology*  
-Year: 2020  
-Authors: Evelpidou N.
-
----
-
-### 2019 (3 books)
-
-**14. best-practices-mediterranean-2019.jpg**  
-✓ Has cover  
-*Best Practices in Evaluation and Restoration of Degraded Mediterranean Environments*  
-Year: 2019  
-Authors: Merino, A., Doni, S., Evelpidou, N., Ferreira, T., García-Arias, A. I., Masciandaro, G., Rodríguez-González, P. M. (Eds.)
-
-**15. sea-level-changes-2019.jpg**  
-✓ Has cover  
-*Sea Level Changes*  
-Year: 2019  
-Authors: Evelpidou, N.
-
-**16. geophysical-phenomena-alexandrian-2019.jpg**  
-✓ Has cover  
-*Geophysical Phenomena and Alexandrian Littoral*  
-Year: 2019  
-Authors: Evelpidou N., Repapis Ch., Zerefos Ch., Tzalas H., Synolakis K.
-
----
-
-### 2018 (2 books)
-
-**17. geomorphology-laboratory-exercises-2018.jpg**  
-✓ Has cover  
-*Geomorphology-Laboratory Exercises*  
-Year: 2018  
-Authors: Evelpidou N.
-
-**18. coastal-systems-mediterranean-fieldtrip-2018.jpg**  
-📝 Cover needed  
-*Field trip 2. Coastal systems. In: Fieldtrip guide "Land Degradation and Rehabilitation in Mediterranean Environments"*  
-Year: 2018  
-Authors: Karkani A., Evelpidou N.
-
----
-
-### 2017 (2 books)
-
-**19. quaternary-geoenvironment-archaeogeomorphology-2017.jpg**  
-📝 Cover needed  
-*Quaternary GeoEnvironment-ArchaeoGeomorphology. Field trip guide*  
-Year: 2017  
-Authors: Evelpidou N., Karkani A., Gatou M. (Eds.)
-
-**20. land-rehabilitation-mediterranean-2017.jpg**  
-📝 Cover needed  
-*Land rehabilitation in Mediterranean environments. Field trip guide*  
-Year: 2017  
-Authors: Evelpidou N., Karkani A., Giannikopoulou K. (Eds.)
-
----
-
-### 2016 (1 book)
-
-**21. coastal-erosion-erasmus-2016.jpg**  
-📝 Cover needed  
-*Coastal erosion. Notes within framework of Erasmus+ International Course 2016*  
-Year: 2016  
-Authors: Evelpidou N., Karkani A., Kotinas V.
-
----
-
-### 2015 (2 books)
-
-**22. geographic-information-systems-2015.jpg**  
-✓ Has cover  
-*Geographic Information Systems*  
-Year: 2015  
-Authors: Evelpidou Ν., Antoniou V.
-
-**23. gis-lab-instruction-2015.jpg**  
-📝 Cover needed  
-*G.I.S. Laboratory instruction guide*  
-Year: 2015  
-Authors: Evelpidou N., Kotinas V.
-
----
-
-### 2012 (2 books)
-
-**24. runoff-erosion-2012.jpg**  
-📝 Cover needed  
-*Runoff Erosion*  
-Year: 2012  
-Authors: Evelpidou N., Cordier St., Merino A., Figuireido T., Centeri C.
-
-**25. marathon-park-schinias-fieldtrip-2012.jpg**  
-📝 Cover needed  
-*Studying the Environment-Protection and Management-Marathon National Park Schinias. Field trip guide*  
-Year: 2012  
-Authors: Antoniou V., Argyraki A., Athanassas K., Evelpidou N., Godelitsas, A., Karkani E., Merino A., Pirazzoli P., Vassilakis E.
-
----
-
-### 2011 (1 book)
-
-**26. building-materials-crete-fieldtrip-2011.jpg**  
-📝 Cover needed  
-*Building materials of antiquity and geomorphological evolution of W. Crete during prehistorical and historical periods. Field trip guide*  
-Year: 2011  
-Authors: Stamatakis M., Evelpidou N., Poulos S., Alexopoulos I., Vassilakis E., Kouli A., Kambouroglou E., Papatheodorou G.
-
----
-
-### 2010 (2 books)
-
-**27. urban-flood-management-2010.jpg**  
-📝 Cover needed  
-*Urban Flood Management*  
-Year: 2010  
-Authors: Zevenbergen C., Cashman A., Evelpidou N., Pasche E., Garvin S., Ashley R.
-
-**28. natural-heritage-east-west-2010.jpg**  
-📝 Cover needed  
-*Natural Heritage from East to West*  
-Year: 2010  
-Authors: Evelpidou N., Figueiredo T. de, Mauro F., Tecim V., Vassilopoulos A.
-
----
-
-### 2009 (3 books)
-
-**29. soil-protection-mediterranean-2009.jpg**  
-📝 Cover needed  
-*Soil Protection in Sloping Mediterranean Agri-Environments, Lectures and exercises*  
-Year: 2009  
-Authors: Evelpidou N., de Figueiredo T.
-
-**30. mapping-geomorphological-environments-2009.jpg**  
-✓ Has cover  
-*Mapping Geomorphological Environments*  
-Year: 2009  
-Authors: Pavlopoulos K., Evelpidou N., Vassilopoulos A.
-
-**31. erosion-geomorphology-fieldtrip-2009.jpg**  
-📝 Cover needed  
-*Erosion and Geomorphology, Field trip guide*  
-Year: 2009  
-Authors: Pavlopoulos K., Evelpidou N., Vassilopoulos A., Xanthakis M.
-
----
-
-### 2008 (7 books)
-
-**32. risk-assessment-pollution-hazards-2008.jpg**  
-📝 Cover needed  
-*Risk Assessment and pollution hazards in environmentally sensitive European regions*  
-Year: 2008  
-Authors: Vassilopoulos A., Evelpidou N., Fernandez J.A., Papanagiotou E., Bencivenga M., Pisanu A.B.
-
-**33. methodological-approaches-geoarchaeology-2008.jpg**  
-📝 Cover needed  
-*Methodological Approaches in Geoarchaeology*  
-Year: 2008  
-Authors: Pavlopoulos K., Evelpidou N., Vouvalidis K.
-
-**34. geoinformation-geocultural-landscape-2008.jpg**  
-📝 Cover needed  
-*GeoInformation Technology for Geo-Cultural Landscape Analysis*  
-Year: 2008  
-Authors: Bender O., Evelpidou N., Krek A., Vassilopoulos A.
-
-**35. caves-underground-heritage-2008.jpg**  
-📝 Cover needed  
-*Caves-Natural & Manmade Underground European Heritage*  
-Year: 2008  
-Authors: Evelpidou N., Vassilopoulos A., Darlas A.
-
-**36. georeference-3d-variables-2008.jpg**  
-📝 Cover needed  
-*'Georeference systems and Analysis of 3-D variables'. Notes*  
-Year: 2008  
-Authors: Vaiopoulos, D., Vasilopoulos, Α., Evelpidou, Ν., Skianis, G.
-
-**37. landscape-evolution-geoarchaeology-2008.jpg**  
-📝 Cover needed  
-*Field trip guide for 13th Belgium-France-Italy-Romania Geomorphological Meeting, Landscape Evolution & Geoarchaeology*  
-Year: 2008  
-Authors: Karkanas P., Baika K., Pavlopoulos K., Evelpidou N.
-
----
-
-### 2007 (2 books)
-
-**38. applied-geomorphology-fieldtrip-2007.jpg**  
-📝 Cover needed  
-*Field trip guide, 'Applied Geomorphology, Theory and Practice'*  
-Year: 2007  
-Authors: Pavlopoulos, Κ., Evelpidou Ν., Voubalidis, Κ., Vassilopoulos Α.
-
-**39. vouraikos-river-fieldtrip-2007.jpg**  
-📝 Cover needed  
-*Field trip guide 'Applied Geomorphology in Valley of Vouraikos River'*  
-Year: 2007  
-Authors: Pavlopoulos, Κ., Evelpidou Ν.
-
----
-
-### 2006 (6 books)
-
-**40. gis-mapinfo-professional-2006.jpg**  
-✓ Has cover  
-*Geographic Information Systems-Use of MapInfo Professional*  
-Year: 2006  
-Authors: Koutsopoulos K., Evelpidou N., Vassilopoulos A.
-
-**41. quaternary-geology-2006.jpg**  
-✓ Has cover  
-*Quaternary Geology*  
-Year: 2006  
-Authors: Livaditis G., Evelpidou N.
-
-**42. samos-geocultural-resources-2006.jpg**  
-📝 Cover needed  
-*Field trip guide, 'GeoCultural Resources of Samos Island - a brief guide'*  
-Year: 2006  
-Authors: Vassilopoulos A., Evelpidou N., Stamatakis, M.
-
-**43. samos-island-guide-2006.jpg**  
-📝 Cover needed  
-*Field trip guide, 'Guide to Samos Island'*  
-Year: 2006  
-Authors: Vassilopoulos A., Evelpidou N., Stamatakis, M.
-
-**44. gis-notes-2006.jpg**  
-📝 Cover needed  
-*"Geographic Information Systems"*  
-Year: 2006  
-Authors: Vaiopoulos Δ., Evelpidou Ν., Vassilopoulos Α.
-
----
-
-### 2005 (1 book)
-
-**45. geomorphology-notes-2005.jpg**  
-📝 Cover needed  
-*"Geomorphology"*  
-Year: 2005  
-Authors: Maroukian Χ., Gaki- Papanastasiou Κ., Papadopoulou Κ., Evelpidou Ν.
-
----
-
-### 2002 (2 books)
-
-**46. gis-theory-practice-2002.jpg**  
-✓ Has cover  
-*G.I.S. from theory to practice*  
-Year: 2002  
-Authors: Vaiopoulos, D., Vassilopoulos, A., Evelpidou, N.
-
-**47. windows-word-excel-internet-2002.jpg**  
-✓ Has cover  
-*Windows-Word-Excel-Internet from theory to application*  
-Year: 2002  
-Authors: Vaiopoulos, D., Vassilopoulos, A., Evelpidou, N.
-
----
-
-## Summary Statistics
-
-- **Total Books**: 48
-- **Books with Covers**: 15 (31%)
-- **Books Using Placeholder**: 33 (69%)
-
-## About placeholder.jpg
-
-The `placeholder.jpg` file is a generic book cover image used for publications that don't yet have their actual cover images available. Books using the placeholder are marked with ⚠ in the inventory above.
-
-If you have actual cover images for any of the books currently using the placeholder, please:
-1. Save the image with the suggested filename shown in this inventory
-2. Upload it to this directory
-3. Update the corresponding `<img>` tag in `Research/Books.html`
-
-## GitHub Raw URL Format
-
-Book cover images are referenced in the HTML using GitHub's raw content URL format:
+## How to add or update a cover
+1) Save the optimized image with the correct filename into this directory.
+2) In `Research/Books.html`, update the corresponding `<img>` `src` to point at the raw GitHub URL:
 
 ```
 https://raw.githubusercontent.com/AlexandrosLiaskos/OpenScholar.Evelpidou/master/assets/book-covers/[filename].jpg
 ```
 
-**Example:**
+Example:
 ```html
 <img src="https://raw.githubusercontent.com/AlexandrosLiaskos/OpenScholar.Evelpidou/master/assets/book-covers/geomorphology-2020.jpg" alt="Book cover for Geomorphology">
 ```
 
-## File Naming Convention
+3) Commit your change and verify the image renders in the site.
 
-Book cover filenames follow this pattern:
-- Use lowercase letters
-- Separate words with hyphens (-)
-- Include the publication year at the end
-- Use `.jpg` extension
+## Placeholder policy
+Use `placeholder.jpg` or `https://via.placeholder.com/100x140/e2e8f0/64748b?text=Cover` when the real cover is unavailable. Replace it as soon as a proper cover is ready.
 
-**Examples:**
-- `geographic-information-systems-2022.jpg`
-- `geomorphology-2020.jpg`
-- `sea-level-changes-2019.jpg`
+## Expected filename reference
+
+Below is the complete list of expected filenames for all books organized by section and year. Use this as a guide when saving new cover images.
+
+### Authored Books (2025–2002)
+
+**2025:**
+- `geovt-project-2025.jpg` — Geomorphology, Geohazards and Geoheritage in Virtual Reality
+
+**2023:**
+- `geographic-information-systems-arcgis-pro-2023.jpg` — Geographic Information Systems from theory to practice: using ArcGIS Pro
+- `applied-urban-geomorphology-2023.jpg` — Applied and Urban Geomorphology
+- `quaternary-geology-archeogeomorphology-2023.jpg` — Quaternary Geology and Archeogeomorphology
+
+**2022:**
+- `geographic-information-systems-2022.jpg` — Geographic Information Systems
+
+**2020:**
+- `geomorphology-2020.jpg` — Geomorphology
+
+**2019:**
+- `sea-level-changes-2019.jpg` — Sea Level Changes
+- `geophysical-phenomena-alexandrian-2019.jpg` — Geophysical Phenomena and the Alexandrian Littoral
+
+**2018:**
+- `geomorphology-laboratory-exercises-2018.jpg` — Geomorphology – Laboratory Exercises
+
+**2015:**
+- `geographic-information-systems-2015.jpg` — Geographic Information Systems
+
+**2009:**
+- `mapping-geomorphological-environments-2009.jpg` — Mapping Geomorphological Environments
+
+**2006:**
+- `gis-mapinfo-professional-2006.jpg` — Geographic Information Systems – Use of MapInfo Professional
+- `quaternary-geology-2006.jpg` — Quaternary Geology
+
+**2002:**
+- `gis-theory-practice-2002.jpg` — G.I.S. from theory to practice
+- `windows-word-excel-internet-2002.jpg` — Windows-Word-Excel-Internet from theory to application
+
+### Edited Volumes (2019–2008)
+
+**2019:**
+- `best-practices-mediterranean-2019.jpg` — Best practices in evaluation and restoration of degraded mediterranean environments
+- `training-land-restoration-2019.jpg` — Training on land restoration: Impact analysis on "green employment"
+
+**2018:**
+- `geophysical-phenomena-alexandrian-2018.jpg` — Geophysical phenomena and the littoral Alexandria
+
+**2012:**
+- `runoff-erosion-2012.jpg` — Runoff Erosion
+
+**2010:**
+- `urban-flood-management-2010.jpg` — Urban Flood Management
+- `natural-heritage-east-west-2010.jpg` — Natural Heritage from East to West
+
+**2009:**
+- `soil-protection-mediterranean-2009.jpg` — Soil Protection in Sloping Mediterranean Agri-Environments, Lectures and exercises
+
+**2008:**
+- `risk-assessment-pollution-hazards-2008.jpg` — Risk Assessment and pollution hazards in environmentally sensitive European regions
+- `methodological-approaches-geoarchaeology-2008.jpg` — Methodological Approaches in Geoarchaeology
+- `geoinformation-geocultural-landscape-2008.jpg` — GeoInformation Technology for Geo-Cultural Landscape Analysis
+- `caves-underground-heritage-2008.jpg` — Caves – Natural & Manmade Underground European Heritage
+
+### Handbooks (2023–2005)
+
+**2023:**
+- `intro-gis-handbook-arcgis-pro-2023.jpg` — INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS-Handbook ArcGIS Pro
+
+**Other handbooks:** Use placeholder images or create covers as needed for field trip guides and laboratory notes.
+
+### Editor of Bulletins & Special Issues (2023–2008)
+
+**2023:**
+- `tectonic-geomorphology-orogenic-2023.jpg` — Tectonic Geomorphology in Modern Orogenic Zones
+- `coastal-systems-adaptation-2023.jpg` — Coastal Systems: Monitoring, Protection and Adaptation Approaches
+- `natural-disaster-coastal-zones-2023.jpg` — Management of Natural Disaster in Coastal Zones
+
+**2022:**
+- `tectonics-sea-level-fluctuations-2022.jpg` — Tectonics and Sea-Level Fluctuations
+- `eastern-mediterranean-part2-2022.jpg` — Geomorphology, Quaternary Geology and Geoarchaeology of the Eastern Mediterranean-Part 2
+
+**2021:**
+- `eastern-mediterranean-parta-2021.jpg` — Geomorphology, Quaternary Geology and Geoarchaeology of the Eastern Mediterranean-Part A
+
+**2015:**
+- `coastal-mining-heritage-2015.jpg` — Coastal Landscapes, Mining Activities and Preservation of Cultural Heritage
+
+### Children's Books (2025–2022)
+
+**2025:**
+- `where-spring-go-2025.jpg` — Where did the spring go?
+
+**2023:**
+- `sand-dune-2023.jpg` — Once upon a time there was a sand dune
+
+**2022:**
+- `raindrop-journey-2022.jpg` — The journey of the raindrop
+
+---
+
+## Quick checklist (before committing)
+- [ ] Filename follows convention and year suffix
+- [ ] Image is portrait, optimized (≤ 300 KB)
+- [ ] Alt text added/kept accurate in Books.html
+- [ ] Link uses the raw GitHub URL format
