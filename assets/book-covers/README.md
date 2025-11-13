@@ -49,7 +49,10 @@ Use `placeholder.jpg` when the real cover is unavailable. Replace it as soon as 
 
 Below is the complete list of expected filenames for all books in the Authored Books section, organized by year. Use this as a guide when saving new cover images.
 
-### Authored Books (2023–2002)
+### Authored Books (2025–2002)
+
+**2025:**
+- `geovt-project-2025.jpg` — Geomorphology, Geohazards and Geoheritage in Virtual Reality
 
 **2023:**
 - `geographic-information-systems-arcgis-pro-2023.jpg` — Geographic Information Systems from theory to practice: using ArcGIS Pro
@@ -63,7 +66,6 @@ Below is the complete list of expected filenames for all books in the Authored B
 - `geomorphology-2020.jpg` — Geomorphology
 
 **2019:**
-- `best-practices-mediterranean-2019.jpg` — Best Practices in Evaluation and Restoration of Degraded Mediterranean Environments
 - `sea-level-changes-2019.jpg` — Sea Level Changes
 - `geophysical-phenomena-alexandrian-2019.jpg` — Geophysical Phenomena and Alexandrian Littoral
 
@@ -72,6 +74,26 @@ Below is the complete list of expected filenames for all books in the Authored B
 
 **2015:**
 - `geographic-information-systems-2015.jpg` — Geographic Information Systems
+
+**2009:**
+- `mapping-geomorphological-environments-2009.jpg` — Mapping Geomorphological Environments
+
+**2006:**
+- `gis-mapinfo-professional-2006.jpg` — Geographic Information Systems-Use of MapInfo Professional
+- `quaternary-geology-2006.jpg` — Quaternary Geology
+
+**2002:**
+- `gis-theory-practice-2002.jpg` — G.I.S. from theory to practice
+- `windows-word-excel-internet-2002.jpg` — Windows-Word-Excel-Internet from theory to application
+
+### Edited Volumes (2019–2008)
+
+**2019:**
+- `best-practices-mediterranean-2019.jpg` — Best Practices in Evaluation and Restoration of Degraded Mediterranean Environments
+- `training-land-restoration-2019.jpg` — Training on land restoration: Impact analysis on "green employment"
+
+**2018:**
+- `geophysical-phenomena-alexandrian-2018.jpg` — Geophysical phenomena and the littoral Alexandria
 
 **2012:**
 - `runoff-erosion-2012.jpg` — Runoff Erosion
@@ -82,7 +104,6 @@ Below is the complete list of expected filenames for all books in the Authored B
 
 **2009:**
 - `soil-protection-mediterranean-2009.jpg` — Soil Protection in Sloping Mediterranean Agri-Environments, Lectures and exercises
-- `mapping-geomorphological-environments-2009.jpg` — Mapping Geomorphological Environments
 
 **2008:**
 - `risk-assessment-pollution-hazards-2008.jpg` — Risk Assessment and pollution hazards in environmentally sensitive European regions
@@ -90,20 +111,12 @@ Below is the complete list of expected filenames for all books in the Authored B
 - `geoinformation-geocultural-landscape-2008.jpg` — GeoInformation Technology for Geo-Cultural Landscape Analysis
 - `caves-underground-heritage-2008.jpg` — Caves-Natural & Manmade Underground European Heritage
 
-**2006:**
-- `gis-mapinfo-professional-2006.jpg` — Geographic Information Systems-Use of MapInfo Professional
-- `quaternary-geology-2006.jpg` — Quaternary Geology
-
-**2002:**
-- `gis-theory-practice-2002.jpg` — G.I.S. from theory to practice
-- `windows-word-excel-internet-2002.jpg` — Windows-Word-Excel-Internet from theory to application
-
-### Guides & Notes (2023–2005)
+### Handbooks (2023–2005)
 
 **2023:**
 - `intro-gis-handbook-arcgis-pro-2023.jpg` — INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS-Handbook ArcGIS Pro
 - `gis-environmental-applications-2023.jpg` — GEOGRAPHIC INFORMATION SYSTEMS IN ENVIRONMENTAL APPLICATIONS Laboratory notes
-- `gis-lab-notes-arcgis-pro-2023.jpg` — Geographic Information Systems – Laboratory notes for ArcGIS Pro
+- `geographic-information-systems-arcgis-pro-notes-2023.jpg` — Geographic Information Systems – Laboratory notes for ArcGIS Pro
 
 **2022:**
 - `resilience-strategies-heritage-landscapes-2022.jpg` — Course Module Resilience Strategies for Natural and Historic Heritage Landscapes – Study Guide
@@ -137,20 +150,55 @@ Below is the complete list of expected filenames for all books in the Authored B
 - `erosion-geomorphology-fieldtrip-2009.jpg` — Erosion and Geomorphology, Field trip guide
 
 **2008:**
-- `georeference-3d-variables-2008.jpg` — 'Georeference systems and Analysis of 3-D variables'. Notes
+- `georeference-3d-variables-2008.jpg` — Georeference systems and Analysis of 3-D variables. Notes
 - `landscape-evolution-geoarchaeology-2008.jpg` — Field trip guide for 13th Belgium-France-Italy-Romania Geomorphological Meeting
 
 **2007:**
-- `applied-geomorphology-fieldtrip-2007.jpg` — Field trip guide, 'Applied Geomorphology, Theory and Practice'
-- `vouraikos-river-fieldtrip-2007.jpg` — Field trip guide 'Applied Geomorphology in Valley of Vouraikos River'
+- `applied-geomorphology-fieldtrip-2007.jpg` — Applied Geomorphology, Theory and Practice, Field trip guide
+- `vouraikos-river-fieldtrip-2007.jpg` — Applied Geomorphology in Valley of Vouraikos River, Field trip guide
 
 **2006:**
-- `samos-geocultural-resources-2006.jpg` — Field trip guide, 'GeoCultural Resources of Samos Island - a brief guide'
-- `samos-island-guide-2006.jpg` — Field trip guide, 'Guide to Samos Island'
-- `gis-notes-2006.jpg` — "Geographic Information Systems" (notes)
+- `samos-geocultural-resources-2006.jpg` — GeoCultural Resources of Samos Island - a brief guide, Field trip guide
+- `samos-island-guide-2006.jpg` — Guide to Samos Island, Field trip guide
+- `gis-notes-2006.jpg` — Geographic Information Systems (notes)
 
 **2005:**
-- `geomorphology-notes-2005.jpg` — "Geomorphology" (notes)
+- `geomorphology-notes-2005.jpg` — Geomorphology (notes)
+
+### Editor of Bulletins & Special Issues (2023–2008)
+
+**2023:**
+- `tectonic-geomorphology-orogenic-2023.jpg` — Tectonic Geomorphology in Modern Orogenic Zones
+- `coastal-systems-adaptation-2023.jpg` — Coastal Systems: Monitoring, Protection and Adaptation Approaches
+- `natural-disaster-coastal-zones-2023.jpg` — Management of Natural Disaster in Coastal Zones
+
+**2022:**
+- `tectonics-sea-level-fluctuations-2022.jpg` — Tectonics and Sea-Level Fluctuations
+- `eastern-mediterranean-part2-2022.jpg` — Geomorphology, Quaternary Geology and Geoarchaeology of the Eastern Mediterranean-Part 2
+
+**2021:**
+- `eastern-mediterranean-parta-2021.jpg` — Geomorphology, Quaternary Geology and Geoarchaeology of the Eastern Mediterranean-Part A
+
+**2015:**
+- `coastal-mining-heritage-2015.jpg` — Coastal Landscapes, Mining Activities and Preservation of Cultural Heritage
+
+**2013:**
+- `quaternary-geomorphology-tectonically-active-2013.jpg` — Quaternary Geomorphology in Tectonically Active Areas with Emphasis in Fluvio - Coastal Processes
+
+**2008:**
+- `geological-society-greece-vol-xlii-ii-2008.jpg` — Bulletin of the Geological society of Greece Vol. XL II/II-2008
+- `geological-society-greece-vol-xlii-i-2008.jpg` — Bulletin of the Geological society of Greece, Vol. XLII/I-2008
+
+### Children's Books (2025–2022)
+
+**2025:**
+- `where-spring-go-2025.jpg` — Where did the spring go?
+
+**2023:**
+- `sand-dune-2023.jpg` — Once upon a time there was a sand dune
+
+**2022:**
+- `raindrop-journey-2022.jpg` — The journey of the raindrop
 
 ---
 
