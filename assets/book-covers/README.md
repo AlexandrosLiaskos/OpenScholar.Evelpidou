@@ -2,7 +2,7 @@
 
 This directory contains book cover images for the OpenScholar website.
 
-## Authored Books
+## Books (Authored, Co-authored, Edited Volumes, Handbooks & Field Guides)
 
 1. **geographic-information-systems-arcgis-pro-2023.jpg**
    - Title: Geographic Information Systems from theory to practice: using ArcGIS Pro
@@ -79,53 +79,10 @@ This directory contains book cover images for the OpenScholar website.
     - Year: 2002
     - Authors: Vaiopoulos, D., Vassilopoulos, A., Evelpidou, N.
 
-## Edited Volumes
+## Special Issues & Bulletins (Generic placeholder)
 
-16. **edited-best-practices-mediterranean-2019.jpg**
-    - Title: Best Practices in Evaluation and Restoration of Degraded Mediterranean Environments
-    - Year: 2019
-
-17. **runoff-erosion-2012.jpg**
-    - Title: Runoff Erosion
-    - Year: 2012
-
-18. **urban-flood-management-2010.jpg**
-    - Title: Urban Flood Management
-    - Year: 2010
-
-19. **natural-heritage-east-west-2010.jpg**
-    - Title: Natural Heritage from East to West
-    - Year: 2010
-
-20. **soil-protection-mediterranean-2009.jpg**
-    - Title: Soil Protection in Sloping Mediterranean Agri-Environments, Lectures and exercises
-    - Year: 2009
-
-21. **risk-assessment-pollution-2008.jpg**
-    - Title: Risk Assessment and pollution hazards in environmentally sensitive European regions
-    - Year: 2008
-
-22. **methodological-approaches-geoarchaeology-2008.jpg**
-    - Title: Methodological Approaches in Geoarchaeology
-    - Year: 2008
-
-23. **geoinformation-geocultural-landscape-2008.jpg**
-    - Title: GeoInformation Technology for Geo-Cultural Landscape Analysis
-    - Year: 2008
-
-24. **caves-underground-heritage-2008.jpg**
-    - Title: Caves-Natural & Manmade Underground European Heritage
-    - Year: 2008
-
-## Special Issues (Generic placeholder)
-
-25. **placeholder-journal.jpg**
-    - For all special issues and bulletins
-
-## Handbooks & Field Guides (Generic placeholder)
-
-26. **placeholder-handbook.jpg**
-    - For all handbooks and field guides
+16. **placeholder.jpg**
+    - For all special issues, bulletins, handbooks, field guides, and other publications without specific cover images
 
 ---
 
